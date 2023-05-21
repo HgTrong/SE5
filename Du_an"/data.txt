@@ -1,0 +1,3 @@
+Thống kê toàn bộ thời gian:
+Số xe: 10
+Doanh thu: 5666566.0
